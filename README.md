@@ -77,6 +77,6 @@ $ make view-cov
 ```
 
 ## License
-credit to Jared Hanson for his work as this is a fork of https://github.com/jaredhanson/passport-google-oauth20
+credit to Jared Hanson for his work as this is a fork of https://github.com/jaredhanson/passport-google-oauth2
 
 [The MIT License](http://opensource.org/licenses/MIT)
